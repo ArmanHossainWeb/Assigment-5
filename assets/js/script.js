@@ -10,7 +10,7 @@ document.getElementById("theme-btn").addEventListener("click",
 // discover somthing
 document.getElementById("DiscoverSomthing").addEventListener("click",
     function(){
-        window.location.href = "../../blog.html"
+        window.location.href = "blog.html"
         
     }
 )
